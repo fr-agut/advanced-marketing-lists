@@ -2,17 +2,28 @@
 
 Advanced Marketing Lists helps organizations to meet the needs of creating custom target lists and keep them updated regularly with automated tasks. 
 
-## User Guide
+### User Guide
 [Advanced Marketing Lists 1.1.5 User Guide.pdf](https://github.com/izertis-sugarcrm/advanced-marketing-lists/raw/master/docs/Advanced-Marketing-Lists-1.1.5-User-Guide.pdf.zip)
+
 [Advanced Marketing Lists 1.1.5 Guia Usuario.pdf](https://github.com/izertis-sugarcrm/advanced-marketing-lists/raw/master/docs/Advanced-Marketing-Lists-1.1.5-Guia-Usuario.pdf.zip)
 
-## Demo Edition
-If you wish, you can try Advanced Marketing Lists downloading the Demo Edition found in our GitHub repository : [Advanced Marketing Lists Demo](https://github.com/izertis-sugarcrm/advanced-marketing-lists)
+### Demo Edition
+If you wish, you can try Advanced Marketing Lists downloading the Demo Edition found in this GitHub repository : 
 
-## Compatibility
+- Advanced Marketing Lists Demo v1.1.4 :
+
+[SugarCRM CE 6.5, SugarCRM PRO 6.5 - 7.2 and SuiteCRM 7](https://github.com/izertis-sugarcrm/advanced-marketing-lists/raw/master/AdvancedMarketingtLists-Demo-v1.1.4-Sugar_6.5-7.2.zip)
+
+### Premium Edition
+
+- Advanced Marketing Lists Premium v1.1.5 :
+
+[SugarCRM CE 6.5, SugarCRM PRO 6.5 - 7.2 and SuiteCRM 7](http://www.sigisoftware.com/catalog/product_info.php?products_id=35)
+
+### Compatibility
 This component is compatible with all SugarCRM versions from 6.5.6 to 7.2.2, both CE and PRO editions, including On-Demand installations, and all [SuiteCRM](https://suitecrm.com) versions.
 
-## Overview
+### Overview
 The Module “Advanced Marketing Lists” automatically fill Target Lists and keep updated the Campaigns to which they are associated. 
 
 These records may act on the modules that can be linked with Target Lists: Contacts, Accounts, Leads, Targets and Users. 
@@ -27,14 +38,14 @@ Of course there is a action to launch the process of fill Target Lists manually,
 
 Consult us if you need help on creating custom SQL adjusted to your needs.
 
-## Changelog
+### Changelog
 [Changelog](https://www.sugaroutfitters.com/docs/advanced-marketing-lists)
 
-## Video
+### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dmCEKRo1SMc" frameborder="0" allowfullscreen></iframe>
+[AML on Youtube](https://www.youtube.com/watch?v=dmCEKRo1SMc)
 
-## Screenshots
+### Screenshots
 
 <img alt="Screenshot 1" width="800" src="https://github.com/izertis-sugarcrm/advanced-marketing-lists/raw/master/screenshots/screenshot_01.jpg" class="shadow">
 
