@@ -10,18 +10,18 @@ Advanced Marketing Lists helps organizations to meet the needs of creating custo
 ### Demo Edition
 If you wish, you can try Advanced Marketing Lists downloading the Demo Edition found in this GitHub repository : 
 
-- Advanced Marketing Lists Demo v1.1.6 :
+- Advanced Marketing Lists Demo :
 
-[SugarCRM CE 6.5, SugarCRM PRO 6.5 - 7.5 and SuiteCRM 7](https://github.com/izertis-sugarcrm/advanced-marketing-lists/raw/master/AdvancedMarketingtLists-Demo-v1.1.6-Sugar_6.5-7.5.zip)
+[SugarCRM CE 6.5, SugarCRM PRO 6.5 - 7.6 and SuiteCRM 7](https://github.com/izertis-sugarcrm/advanced-marketing-lists/raw/master/AdvancedMarketingtLists-Demo-v1.1.7-Sugar_6.5-7.6.zip)
 
 ### Premium Edition
 
-- Advanced Marketing Lists Premium v1.1.6 :
+- Advanced Marketing Lists Premium :
 
-[SugarCRM CE 6.5, SugarCRM PRO 6.5 - 7.5 and SuiteCRM 7](http://www.sigisoftware.com/catalog/product_info.php?products_id=35)
+[SugarCRM CE 6.5, SugarCRM PRO 6.5 - 7.6 and SuiteCRM 7](https://www.sugaroutfitters.com/addons/advanced-marketing-lists)
 
 ### Compatibility
-This component is compatible with all SugarCRM versions from 6.5.6 to 7.5, both CE and PRO editions, including On-Demand installations, and all [SuiteCRM](https://suitecrm.com) versions.
+This component is compatible with all SugarCRM versions from 6.5.6 to 7.6, both CE and PRO editions, including On-Demand installations, and all [SuiteCRM](https://suitecrm.com) versions.
 
 ### Overview
 The Module “Advanced Marketing Lists” automatically fill Target Lists and keep updated the Campaigns to which they are associated. 
