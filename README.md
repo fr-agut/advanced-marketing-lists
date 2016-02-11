@@ -18,7 +18,9 @@ If you wish, you can try Advanced Marketing Lists downloading the Demo Edition f
 
 - Advanced Marketing Lists Premium :
 
-[SugarCRM CE 6.5, SugarCRM PRO 6.5 - 7.6 and SuiteCRM 7](https://www.sugaroutfitters.com/addons/advanced-marketing-lists)
+[SugarCRM CE 6.5, SugarCRM PRO 6.5 - 7.6](https://www.sugaroutfitters.com/addons/advanced-marketing-lists)
+
+[SuiteCRM 7](https://store.suitecrm.com/addons/advanced-marketing-lists)
 
 ### Compatibility
 This component is compatible with all SugarCRM versions from 6.5.6 to 7.6, both CE and PRO editions, including On-Demand installations, and all [SuiteCRM](https://suitecrm.com) versions.
